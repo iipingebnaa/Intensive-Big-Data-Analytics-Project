@@ -1,0 +1,5 @@
+model,AUC,accuracy,precision,recall,F1,train_seconds
+GBT,0.7131,0.7016,0.7604,0.7016,0.721,112.82
+RandomForest,0.7122,0.7064,0.76,0.7064,0.7246,257.47
+LogisticRegression,0.655,0.5574,0.7341,0.5574,0.5926,15.04
+DecisionTree,0.5,0.7022,0.7602,0.7022,0.7215,15.48
